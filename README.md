@@ -1,2 +1,0 @@
-# OPENCV
-Road Lane Detection
